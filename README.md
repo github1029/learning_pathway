@@ -1,16 +1,10 @@
-# Computer Science and Programming - Version 4.0
+# Learning Pathway
 
 This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/p1xt-guides)
-
-Please read the [FAQ](./faq.md) and note that there are [Tier Project Ideas](./project_ideas.md) to help you select projects.
-
-**Note:** Prior guides have been deprecated but are still available [here](./deprecated/README.md)
 
 ## Table of Contents
 
 ### Junior developer
-
-If you want to develop the skills necessary to be 'job ready' for a junior developer position - complete tier X, 0, and 1.
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
@@ -19,21 +13,17 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 
 ### Intermediate developer
 
-If you want to develop the skills necessary to move beyond junior to intermediate developer - once you've finished tiers X, 0 and 1, proceed to complete tiers 2 and 3.
-
 - [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
 - [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
 
 ### Senior developer
-
-If you want to develop the skills necessary to move beyond intermediate to senior developer - once you've finished tiers X, 0, 1, 2, and 3, proceed to complete tiers 4 and 5.
 
 - [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
 - [tier 5 - Specialize](#tier-5---specialize)
 
 ### Specializations
 
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing. [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended (but not required) as the first specialization. Beyond that, feel free to complete a different specialization each tier, or dive deeply into a specialization by selecting it during multiple tiers to explore it in greater detail and further develop your specialized profile.
+Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing.
 
 - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
 - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
@@ -82,6 +72,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
+| [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)                                                         |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
