@@ -4,50 +4,11 @@ This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/
 
 ## Table of Contents
 
-### Junior developer
-
-- [tier X - Math Prep](#tier-x---math-prep)
-- [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---programming-prep)
-- [tier 1 - Getting Started](#tier-1---getting-started)
-
-### Intermediate developer
-
-- [tier 2 - Develop More Expertise](#tier-2---develop-more-expertise)
-- [tier 3 - Add More Rigor](#tier-3---add-more-rigor)
-
-### Senior developer
-
-- [tier 4 - Polish the Rough Edges](#tier-4---polish-the-rough-edges)
-- [tier 5 - Specialize](#tier-5---specialize)
-
-### Specializations
-
-Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing.
-
-- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
-- [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
-- [Web Development - Frontend](./specializations/frontend.md)
-- [Web Development - Backend](./specializations/backend.md)
-- [Mobile App Development](./specializations/mobile.md)
-- [Game Development](./specializations/games.md)
-- [Open Source Contributions](./specializations/open_source.md)
-
-### Advanced Specializations
-
-The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
-
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
-- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
-- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
-- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
-- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
-
-### Tier Programming Projects
-
-Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
-
-**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
+- [Junior Developer](#junior-developer)
+- [Intermediate Developer](#intermediate-developer)
+- [Senior Developer](#senior-developer)
+- [Specializations](#specializations)
+- [Project Ideas](#tier-programming-projects)
 
 ## Junior developer
 
@@ -247,3 +208,30 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 | Complete a [Specialization](#specializations)                                                                                                                                   |            |
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+
+
+## Specializations
+
+Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing.
+
+- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
+- [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
+- [Web Development - Frontend](./specializations/frontend.md)
+- [Web Development - Backend](./specializations/backend.md)
+- [Mobile App Development](./specializations/mobile.md)
+- [Game Development](./specializations/games.md)
+- [Open Source Contributions](./specializations/open_source.md)
+
+The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
+
+- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
+- [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
+- [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
+- [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
+- [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
+
+## Tier Programming Projects
+
+Both tiers and specializations will require 'Tier Programming Projects', you are free to select any programming project you want. To help combat the 'but I don't know what I want' roadblock, [Tier Programming Project Ideas](./project_ideas.md) lists a variety of ideas.
+
+**Note:** In specializations, the Tier Programming Projects might have extra criteria (such as 'if you're doing a mobile app development specialization your projects must be mobile apps')
