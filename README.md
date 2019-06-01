@@ -10,6 +10,8 @@ This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/
 - [Specializations](#specializations)
 - [Project Ideas](#tier-programming-projects)
 
+<br><br>
+
 ## Junior developer
 
 ### Tier X - Math Prep
@@ -90,7 +92,10 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you will have the opportunity to complete a specialization in each tier so don't worry overmuch about picking 'the right one'. That said, for your first specialization [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended. |            |
+| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md)
+                                                                                                                                                  |            |
+| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
+                                                                                                                                                  |            |
 
 <br><br>
 
@@ -125,7 +130,8 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | Tier Programming Project                                                                                                                                                                                           |            |
 | Tier Programming Project                                                                                                                                                                                           |            |
 | **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization              |            |
+| Complete a [Specialization](#specializations) - [Web Development - Frontend](./specializations/frontend.md)
+               |            |
 
 ### Tier 3 - Add More Rigor
 
@@ -159,7 +165,8 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | **Specialization**                                                                                                                                                                                                                                         | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you may elect to complete another round of a specialization you selected in a prior tier, or branch out and complete a different specialization                                                      |            |
+| Complete a [Specialization](#specializations) - [Web Development - Backend](./specializations/backend.md)                                            
+                                                       |            |
 
 <br><br>
 
@@ -209,12 +216,13 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
+<br><br>
 
 ## Specializations
 
 Each tier has a 'specialization' based capstone which involves further study and extensive practice in an area of your choosing.
 
-- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) (recommended, but not required, first specialization)
+- [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md)
 - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
 - [Web Development - Frontend](./specializations/frontend.md)
 - [Web Development - Backend](./specializations/backend.md)
@@ -224,11 +232,13 @@ Each tier has a 'specialization' based capstone which involves further study and
 
 The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
 
-- [Computer Science - Algorithms](./specializations/algorithms.md) -Suggested for Tier 2 or later
+- [Computer Science - Algorithms](./specializations/algorithms.md) - Suggested for Tier 2 or later
 - [Computer Science - Advanced Algorithms](./specializations/advanced-algorithms.md) - Computer Science - Algorithms is a pre-requisite
 - [Computer Science - Intensive](./specializations/computer_science.md) - Suggested for Tier 4 or later
 - [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
 - [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
+
+<br><br>
 
 ## Tier Programming Projects
 
