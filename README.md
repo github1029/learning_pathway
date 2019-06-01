@@ -93,7 +93,6 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md)
                                                                                                                                                   |            |
 | Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
-                                                                                                                                                  |            |
 
 
 ## Intermediate Developer
@@ -128,7 +127,6 @@ Dive deeper into the Computer Science topics which will prove useful throughout 
 | Tier Programming Project                                                                                                                                                                                           |            |
 | **Specialization**                                                                                                                                                                                                 | **Status** | **Evidence** |
 | Complete a [Specialization](#specializations) - [Web Development - Frontend](./specializations/frontend.md)
-               |            |
 
 ### Tier 3 - Add More Rigor
 
@@ -162,8 +160,7 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | Tier Programming Project                                                                                                                                                                                                                                   |            |
 | **Specialization**                                                                                                                                                                                                                                         | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - [Web Development - Backend](./specializations/backend.md)                                            
-                                                       |            |
+| Complete a [Specialization](#specializations) - [Web Development - Backend](./specializations/backend.md)
 
 ## Senior Developer
 
