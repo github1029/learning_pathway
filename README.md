@@ -1,8 +1,8 @@
 # Learning Pathway
 
-Learning to code 2019. [Projects can be found here](https://github1029.github.io/learning_pathway)
+Learning to code 2019. [Projects can be viewed here](https://github1029.github.io/learning_pathway) or see links in tables below.
 
-This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/p1xt-guides)
+This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/p1xt-guides).
 
 ## Table of Contents
 
@@ -221,6 +221,8 @@ Each tier has a 'specialization' based capstone which involves further study and
 - [Mobile App Development](./specializations/mobile.md)
 - [Game Development](./specializations/games.md)
 - [Open Source Contributions](./specializations/open_source.md)
+
+### Advanced Specializations
 
 The following specializations rely on knowledge gained in earlier tiers. Additionally, they are typically 'more difficult' or will require more work than those listed above.
 
