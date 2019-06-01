@@ -1,5 +1,7 @@
 # Learning Pathway
 
+Learning to code 2019. [Projects can be found here](https://github1029.github.io/learning_pathway)
+
 This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/p1xt-guides)
 
 ## Table of Contents
