@@ -57,7 +57,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            |
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            | [Link](projects/google/google.html)
 | Tier Programming Project                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                              |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
@@ -90,9 +90,8 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md)
-                                                                                                                                                  |            |
-| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
+| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) |            |
+| Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md) |            |
 
 
 ## Intermediate Developer
