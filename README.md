@@ -35,8 +35,9 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)                                                             |            |
 | [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)                                                            |            |
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |            |
-| [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)                                                         |            |
+| [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [Optional]                                                        |            |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |            |
+| [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [Optional]                                                        |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
