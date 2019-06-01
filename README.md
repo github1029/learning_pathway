@@ -10,8 +10,6 @@ This is a customised version of [P1xt's awesome guides](https://github.com/P1xt/
 - [Specializations](#specializations)
 - [Project Ideas](#tier-programming-projects)
 
-<br><br>
-
 ## Junior developer
 
 ### Tier X - Math Prep
@@ -97,7 +95,6 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Complete a [Specialization](#specializations) - [Web Development - Fullstack Bootcamp - The Odin Project](./specializations/the_odin_project.md)
                                                                                                                                                   |            |
 
-<br><br>
 
 ## Intermediate Developer
 
@@ -168,8 +165,6 @@ Dive deeper yet, exploring algorithms and different programming paradigms
 | Complete a [Specialization](#specializations) - [Web Development - Backend](./specializations/backend.md)                                            
                                                        |            |
 
-<br><br>
-
 ## Senior Developer
 
 ### Tier 4 - Polish the Rough Edges
@@ -216,7 +211,6 @@ Wrap up by diving more deeply into your specialization(s). If you haven't alread
 | **Capstone**                                                                                                                                                                    | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this specialization. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
-<br><br>
 
 ## Specializations
 
@@ -238,7 +232,6 @@ The following specializations rely on knowledge gained in earlier tiers. Additio
 - [Data Science I](./specializations/data-science-i.md) - Suggested for Tier 2 or later
 - [Data Science II](./specializations/data-science-ii.md) - Data Science I is a pre-requisite
 
-<br><br>
 
 ## Tier Programming Projects
 
