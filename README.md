@@ -57,7 +57,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |            |
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |            |
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            | [Link](projects/google/google.html)
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |            | [Link](docs/projects/google/google.html)
 | Tier Programming Project                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                              |            |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
