@@ -1,0 +1,338 @@
+/* Stylesheet for Google landing page
+   Images sourced via Google and https://material.io/tools/icons/
+   This stylesheet applies a grid to the body to split it into 3 rows (header, main, footer)
+   Each row makes use of flex-box to position it's contents
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+:root,
+html {
+    font-size: 13px;
+    height: 100%;
+}
+
+body {
+    color: #000;
+    display: grid;
+    font-family: arial, sans-serif;
+    grid-template-rows: 62px auto 82px;
+    height: 100%;
+    min-width: 320px;
+}
+
+:focus {
+    outline: 1px solid #4d90fe;
+}
+
+a {
+    color: #333333;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #1a1a1a;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #dd4b39;
+}
+
+
+/* Header (Top Bar with Profile) */
+
+header {
+    align-items: center;
+    align-self: start;
+    display: flex;
+    padding: 10px;
+}
+
+.header-left {
+    display: flex;
+    margin-right: auto;
+}
+
+.header-left > div {
+    padding-right: 15px;
+}
+
+.header-right {
+    display: flex;
+    margin-left: auto;
+    align-items: center;
+}
+
+.header-right > div {
+    padding-left: 15px;
+}
+
+.header-right a {
+    display: block;
+}
+
+.icon-apps {
+    background: url(../img/icon-apps.svg) no-repeat 0 0;
+    display: inline-block;
+    height: 24px;
+    opacity: 0.55;
+    position: relative;
+    top: 1px;
+    width: 24px;
+}
+
+.icon-apps:hover {
+    opacity: 0.85;
+}
+
+.profile {
+    background: #01579B;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+}
+
+header .logo img {
+    height: auto;
+    width: 92px;
+}
+
+
+/* Main (Logo and Search Form) */
+
+main {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+main .logo {
+    margin-top: 15vh;
+    text-align: center;
+}
+
+main .logo img {
+    height: auto;
+    width: 50%;
+}
+
+form {
+    margin-top: 15px;
+    padding: 0 10px;
+    width: 100%;
+}
+
+.input-container {
+    background: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    display: flex;
+    height: 44px;
+    margin: 0 auto;
+    max-width: 582px;
+    width: 100%;
+}
+
+.input-container:hover,
+.input-container:focus {
+    border-color: rgba(223,225,229,0);
+    box-shadow: 0 1px 6px 0 rgba(32,33,36,0.28);
+}
+
+#search {
+    border: none;
+    display: block;
+    font-size: 16px;
+    height: 32px;
+    line-height: 34px;
+    margin: 5px 20px 0;
+    position: relative;
+    width: 100%;
+}
+
+#search:focus {
+    outline: none;
+}
+
+.button-container {
+    margin-top: 18px;
+    text-align: center;
+}
+
+.button {
+    background: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    display: inline-block;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    margin: 10px 4px;
+    min-width: 54px;
+    padding: 0 15px;
+}
+
+.button:active {
+    color: #5F6368;
+}
+
+.button:hover,
+.button:focus {
+    color: #222;
+    background-color: #f8f8f8;
+    background-image: linear-gradient(to top,#f8f8f8,#f1f1f1);
+    box-shadow: 0 1px 1px rgba(0,0,0,0.1);
+    border: 1px solid #c6c6c6;
+    outline: none;
+    text-decoration: none;
+}
+
+.button:focus {
+    border-color: #4d90fe;
+}
+
+
+/* Footer */
+
+footer {
+    align-self: end;
+    color: #5f6368;
+    background: #f2f2f2;
+    border-top: 1px solid #e4e4e4;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer a,
+footer a:hover,
+footer a:focus {
+    color: #5f6368;
+}
+
+.footer-top {
+    border-bottom: 1px solid #e4e4e4;
+    line-height: 40px;
+    padding: 0 10px;
+    text-align: center;
+    width: 100%;
+}
+
+.footer-bottom,
+.footer-bottom-left,
+.footer-bottom-right {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.footer-bottom {
+    padding-bottom: 15px;
+}
+
+.footer-bottom-left,
+.footer-bottom-right {
+    justify-content: center;
+    padding: 15px 0 0;
+}
+
+.footer-bottom-right {
+    order: 1;
+}
+.footer-bottom-left {
+    order: 2;
+}
+
+.footer-bottom-left div,
+.footer-bottom-right div {
+    padding: 0 10px;
+}
+
+
+/* Media Queries for Responsiveness */
+
+@media screen and (min-width: 400px) {
+
+    .footer-top {
+        text-align: left;
+    }
+
+    .footer-bottom {
+        flex-wrap: nowrap;
+    }
+
+    .footer-bottom-left,
+    .footer-bottom-right {
+        justify-content: initial;
+        width: auto;
+    }
+
+    .footer-bottom-left {
+        order: 1;
+        margin-right: auto;
+        padding-left: 10px;
+    }
+
+    .footer-bottom-left div {
+        padding: 0 20px 0 0;
+    }
+
+    .footer-bottom-right {
+        margin-left: auto;
+        padding-right: 10px;
+    }
+
+    .footer-bottom-right div {
+        padding: 0 0 0 20px;
+    }
+}
+
+@media screen and (min-width: 500px) {
+
+    header {
+        padding: 15px 20px;
+    }
+    
+    form,
+    .footer-top {
+        padding: 0 20px;
+    }
+    
+    form {
+        margin-top: 25px;
+    }
+    
+    .footer-bottom-left {
+        padding-left: 20px;
+    }
+    
+    .footer-bottom-right {
+        padding-right: 20px;
+    }
+}
+
+@media screen and (min-width: 1000px) {
+
+    header {
+        padding: 15px 30px;
+    }
+    
+    form,
+    .footer-top {
+        padding: 0 30px;
+    }
+    
+    .footer-bottom-left {
+        padding-left: 30px;
+    }
+    
+    .footer-bottom-right {
+        padding-right: 30px;
+    }
+}
+
+
