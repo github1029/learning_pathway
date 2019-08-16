@@ -140,9 +140,8 @@ Render.run(renderer);
 // Device orientation based gravity
 // https://developer.mozilla.org/en-US/docs/Web/API/Window/deviceorientation_event
 window.addEventListener("deviceorientation", function(event) {
-  engine.world.gravity.x = event.gamma;
-  engine.world.gravity.y = event.beta;
-  console.log(event.gamma);
+  engine.world.gravity.x = event.gamma / 30;
+  engine.world.gravity.y = event.beta / 30;
 })
 
 
